@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "hello $(yakini)"
+=======
+echo "hello $USER"
+>>>>>>> 02d1555037cbace2c3e4c8c96956937342102832
